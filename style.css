@@ -107,7 +107,7 @@ body {
   position: absolute;
   right: 8px;
   top: 8px;
-  z-index: 99;
+  z-index: 1;
   cursor: pointer;
 }
 
