@@ -199,15 +199,4 @@ body {
   }
 }
 
-.copyright {
-  font-size: 1rem;
-  margin: 5rem;
-  text-align: center;
-  margin-block-end: 15px;
-  color: #222222;
-}
 
-.container a {
-  color: rgb(249 133 0);
-  cursor: pointer;
-}
